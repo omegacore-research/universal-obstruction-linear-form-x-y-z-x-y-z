@@ -21,9 +21,16 @@ The argument is unconditional and does not rely on inverse theorems, analytic st
 - No reliance on Fourier or analytic methods
 
 ## Files
-- `manuscript.pdf` — Full paper with formal statements and proofs
-- `appendix_container_lemma.pdf` — Container applicability lemma and verification
-- `verification_notes.pdf` — Dependency graph and logical verification map
+
+- **Main manuscript (preprint)**  
+  `digit_rigidity_container_obstruction_preprint.pdf`
+
+- **Appendix: Container Applicability**  
+  `appendix_container_lemma.tex.pdf`
+
+- **Verification Notes and Dependency Structure**  
+  `verification_notes.tex.pdf`
+
 
 ## Attribution
 
